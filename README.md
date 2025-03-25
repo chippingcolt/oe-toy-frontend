@@ -16,8 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # OpenEvidence Coding Challenge
 
-This is my submission for the ad-targeting challenge provided by OpenEvidence.
-
 ---
 
 ## ✅ Key Features Added
