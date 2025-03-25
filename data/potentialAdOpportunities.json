@@ -1,0 +1,58 @@
+[
+  {
+    "category": "respiratory",
+    "question": "What is a cough",
+    "confidence": 80,
+    "usedAI": true,
+    "isNew": true,
+    "timestamp": "2025-03-25T07:50:44.446Z"
+  },
+  {
+    "category": "symptoms",
+    "question": "what is a sneeze",
+    "confidence": 85,
+    "usedAI": true,
+    "isNew": true,
+    "timestamp": "2025-03-25T08:03:06.747Z"
+  },
+  {
+    "category": "arthritis",
+    "question": "what is arthritis",
+    "confidence": 100,
+    "usedAI": false,
+    "isNew": false,
+    "timestamp": "2025-03-25T08:03:18.635Z"
+  },
+  {
+    "category": "dermatology",
+    "question": "what is this rash I have that is red with spots",
+    "confidence": 85,
+    "usedAI": true,
+    "isNew": true,
+    "timestamp": "2025-03-25T08:15:46.556Z"
+  },
+  {
+    "category": "arthritis",
+    "question": "Do i have arthritis?",
+    "confidence": 100,
+    "usedAI": false,
+    "isNew": false,
+    "timestamp": "2025-03-25T08:15:54.519Z"
+  },
+  {
+    "category": "neurology",
+    "question": "I have a painful headache",
+    "confidence": 85,
+    "usedAI": true,
+    "isNew": true,
+    "timestamp": "2025-03-25T08:22:46.807Z"
+  },
+  {
+    "category": "pancreatic cancer",
+    "question": "Tell me about pancreatic cancer",
+    "confidence": 100,
+    "usedAI": false,
+    "isNew": false,
+    "timestamp": "2025-03-25T08:23:16.808Z"
+  }
+]

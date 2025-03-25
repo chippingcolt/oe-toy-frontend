@@ -1,0 +1,17 @@
+[
+  {
+    "category": "pancreatic cancer",
+    "keywords": ["pancreatic", "pancreas", "pancreatic tumor"],
+    "sponsor": "Pfizer"
+  },
+  {
+    "category": "breast cancer",
+    "keywords": ["breast", "mammogram", "breast lump"],
+    "sponsor": "GSK"
+  },
+  {
+    "category": "arthritis",
+    "keywords": ["joint pain", "arthritis", "inflammation"],
+    "sponsor": "Genentech"
+  }
+]
